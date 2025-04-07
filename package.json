@@ -1,6 +1,6 @@
 {
   "name": "@type-dom/css-type",
-  "version": "0.4.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "rollup -c",
     "watch": "rollup -c -w",
@@ -38,8 +38,5 @@
     "typescript": "^5.7.3",
     "vite": "^6.1.1",
     "vitepress": "^1.6.3"
-  },
-  "dependencies": {
-    "@type-dom/utils": "^0.1.0"
   }
 }
