@@ -1,2 +1,3 @@
 # css-type
-css interface
+
+This library was generated with csstype .
