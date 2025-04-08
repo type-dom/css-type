@@ -1,5 +1,5 @@
 export default {
-    title: 'Signals',
+    title: 'CssType',
     themeConfig: {
         nav: [{ text: 'Guide', link: '/guide' }],
         sidebar: [
